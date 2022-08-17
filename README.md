@@ -21,3 +21,10 @@ Seed DB;
 
 Start Server;     
 `npm start server`   
+
+### Application Deployment
+
+https://tech-blog-y.herokuapp.com/
+
+
+### Application Screenshot
