@@ -28,3 +28,5 @@ https://tech-blog-y.herokuapp.com/
 
 
 ### Application Screenshot
+
+![Screenshot](https://user-images.githubusercontent.com/102123208/185029166-9355aea7-f901-4bc0-82d5-5e6b65d3674a.png)
